@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kgb750720/source/repos/ActionRouglike/ActionRouglike 5.2/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/kgb750720/source/repos/ActionRouglike/ActionRouglike 5.2/Content/UI/PlayerHealth_Widget.uasset",
+				"C:/Users/kgb750720/source/repos/ActionRouglike/ActionRouglike 5.2/Content/BP/PlayerCharacter_BP.uasset",
+				"C:/Users/kgb750720/source/repos/ActionRouglike/ActionRouglike 5.2/Content/__ExternalActors__/Map/TestLevel/3/JZ/JF12KW8HEOVP1MAOMTYUTO.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASCharacterMapping.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASCharacterMove.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/PlayerCharacter.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASChararcterLook.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASChararcterShot.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/ASMagicProjectile_BP.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/3/JZ/JF12KW8HEOVP1MAOMTYUTO.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/ExplosiveBarrel.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Material/Red_MT.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/0/GR/75ZNDQJS7ZFV3CV3N1P4N0.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASChararcterJump.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/Chest_BP.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/Input/ASChararcterInteraction.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/0/CO/DPI4WWI2ZUH652R5PDXWXL.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/PlayerCharacter_BP.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/ExplosiveBarrel_BP.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/UI/CrossHair_Widegt.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/UI/CrossHair_Widget.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/BP/ExploresionBarrel.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/7/VV/NGI3XN0D3C5798VIOXVTX5.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/1/CS/L1EMNGXHZEJ0C1DMTQWN4V.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/9/37/QYBVR9D6A2R5UQ6VWOI0P9.uasset",
+				"C:/Users/kgb75/Documents/Unreal Projects/ActionRouglike/ActionRouglike/Content/__ExternalActors__/Map/TestLevel/8/GT/37M4QRRCS7H46GUSFNYHT1.uasset"
+			]
+		}
+	]
+}
